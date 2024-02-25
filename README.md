@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bakhodir
-- 👀 I’m interested in Artificial intellegence and Data science
+- 👀 I’m interested in Artificial intelligence and Data science
 - 🌱 I’m currently learning machine learning and deep learning
 - 💞️ I’m looking to collaborate on deep learning projects
 - 📫 How to reach me kilichevbakhodir03@gmail.com
