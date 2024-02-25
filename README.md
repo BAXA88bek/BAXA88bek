@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### AI Engineer
+#### AI Engineer(Junior)
 - 👋 Hi, I’m Bakhodir from Uzbekistan but corrently I`m living in South Korea.
 - 👀 I’m interested in Artificial intelligence and Data science
 - 🌱 I’m currently learning machine learning and deep learning
