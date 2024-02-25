@@ -1,4 +1,4 @@
-### Hi there 👋, Bakhodir
+### Hi there 👋
 #### AI Engineer
 - 👋 Hi, I’m Bakhodir from Uzbekistan but corrently I`m living in South Korea.
 - 👀 I’m interested in Artificial intelligence and Data science
